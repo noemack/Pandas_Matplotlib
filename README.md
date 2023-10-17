@@ -15,3 +15,5 @@ Análisis y visualización de datos con Pandas y Matplotlib - Python Google Cola
 * Nubes de palabras
 * Gráficos de regresión
 * Gráficos geoespaciales
+
+Recurso -> "Pandas_Matplotlib", [Cuaderno](https://github.com/noemack/Pandas_Matplotlib/blob/main/Pandas_Matplotlib.ipynb)
